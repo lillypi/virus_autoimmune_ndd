@@ -3,6 +3,7 @@
 This repository holds the AoU code to identify sex differences in neurodegenerative disease risk.
 
 For the 'masterlist' of conditions and ICD10 codes, refer to `labels.csv`.
+
 This will include the ICD10 codes, the UKB descriptions, the FinnGenn categories, and the the 'type'.
 For this particular study, we categorized 110 ICD10 autoimmune and virus codes into ~64 FinnGen categories.
 35 categories (21 autoimmune, and 14 viral) were significantly replicated between UKB and AoU.
