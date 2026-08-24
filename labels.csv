@@ -1,0 +1,130 @@
+FinnGen_Phenocode,UKB_Description,ICD10_Codes,Cohort,Type,UKB_Description_For_Plots
+AB1_ANOGENITAL_HERPES_SIMPLEX,Anogenital herpesviral [herpes simplex] infection,A60,UKB,virus,Anogenital Herpes Simplex Virus
+AB1_BACT_BIR_OTHER_INF_AGENTS,"Bacterial, viral and other infectious agents","B95,B96,B97",UKB,virus,"Bacterial, Viral and Other Infectious agents"
+AB1_EBV,Infectious mononucleosis,B27,UKB,virus,Infectious Mononucleosis
+AB1_HERPES_SIMPLEX,Herpesviral [herpes simplex] infections,B00,UKB,virus,Herpes Simplex Virus
+AB1_OTHER_VIRAL,Other viral diseases,"B25,B26,B27,B28,B29,B30,B31,B32,B33,B34",UKB,virus,Other Viral Diseases
+AB1_VARICELLA,Varicella [chickenpox],B01,UKB,virus,Chickenpox
+AB1_VIRAL_CNS,Viral infections of the central nervous system,"A80,A81,A82,A83,A84,A85,A86,A87,A88,A89",UKB,virus,CNS Viral Infections
+AB1_VIRAL_ENCEPHALITIS_NOS,"Viral encephalitis, not elsewhere classified/unspecified","A85,A86",UKB,virus,"Viral Encephalitis, NOS"
+AB1_VIRAL_HEMOR_FEVER_NOS,"Viral haemorrhagic fevers, not elsewhere classified/unspecified","A98,A99",UKB,virus,"Viral Haemorrhagic Fevers, NOS"
+AB1_VIRAL_HEPATITIS,Viral hepatitis,"B15,B16,B17,B18,B19",UKB,virus,Viral Hepatitis
+AB1_VIRAL_INOTHER,Viral agents as the cause of diseases classified to other chapters,B97,UKB,virus,Viral Agents Etiology
+AB1_VIRAL_MENINGITIS,Viral meningitis,A87,UKB,virus,Viral Meningitis
+AB1_VIRAL_NOS,"Other viral diseases, not elsewhere classified","B33,B34",UKB,virus,"Other viral diseases, NOS"
+AB1_VIRAL_OTHER_INTEST_INFECTIONS,Viral and other specified intestinal infections,A08,UKB,virus,Viral and other specified intestinal infections
+AB1_VIRAL_SKIN_MUCOUS_MEMBRANE,Viral infections characterized by skin and mucous membrane lesions,"B00,B01,B02,B03,B04,B05,B06,B07,B08,B09",UKB,virus,Skin & Mucous Membrane Lesion Viral infections
+AB1_VIRAL_WARTS,Viral warts,B07,UKB,virus,Viral Warts
+AB1_ZOSTER,Zoster [herpes zoster],B02,UKB,virus,Shingles
+E4_THYROIDITSUBAC,Subacute thyroiditis,E06,UKB,virus,Subacute Thyroiditis
+G6_BELLPA,Bell's palsy,G51,UKB,virus,Bell's Palsy
+G6_ENCEPHOTH,Other encephalitis,"G04,G05",UKB,virus,Other Encephalitis
+G6_MENINGBACT,Bacterial meningitis,"G00,G01",UKB,virus,Bacterial Meningitis
+G6_MENINGOTH,Other meningitis,"G02,G03",UKB,virus,Other Meningitis
+H7_HERPESKERATITIS,Herpesviral keratitis and keratoconjunctivitis,"H19,B00",UKB,virus,Herpesviral Keratitis and Keratoconjunctivitis
+I9_MYOCARD,Myocarditis,"I40,I41",UKB,virus,Myocarditis
+INFLUENZA,All influenza (not Pneumonia),"J10,J11",UKB,virus,All influenza (not Pneumonia)
+J10_COLD,Acute nasopharyngitis(common cold),J00,UKB,virus,Common Cold
+J10_INFLUENZA,All influenza,"J09,J10,J11",UKB,virus,All Influenza
+J10_INFLUPNEU,Influenza and pneumonia,"J09,J10,J11,J12,J13,J14,J15,J16,J17,J18",UKB,virus,Influenza (with Pneumonia)
+J10_VIRALPNEUMO,Viral pneumonia,"J12,J17,J10,J11,B01,B06,B25",UKB,virus,Viral Pneumonia
+K11_CHRONHEP,"Chronic hepatitis, not elsewhere classified",K73,UKB,virus,"Chronic Hepatitis, NOS"
+L12_ERYTHEMAMULTIF,Erythema multiforme,L51,UKB,virus,Erythema Multiforme
+MENINGITIS,Meningitis,"G00,G01,G02,G03,A87,B00,B01,B02,B05,B06,B26,B27",UKB,virus,Meningitis
+G6_MENINGVIR,Viral meningitis,"G02,A87,B00,B01,B02,B05,B06,B26,B27",UKB,virus,Viral Meningitis
+D3_OTHERAPLASTICANAEMIA,Aplastic anemia,D61,UKB,autoimmune,Aplastic Anemia
+D3_ITP,Idiopathic thrombocytopenic purpura,D69,UKB,autoimmune,Idiopathic Thrombocytopenic Purpura
+D3_SARCOIDOSIS,Sarcoidosis,D86,UKB,autoimmune,Sarcoidosis
+E4_GRAVES_STRICT,Graves' disease / Autoimmune thyroiditis,"E05,E06",UKB,autoimmune,Graves' disease / Autoimmune thyroiditis
+E4_DM1,Diabetes mellitus (Type I),E10,UKB,autoimmune,Diabetes Mellitus (Type I)
+G6_MS,Multiple sclerosis,G35,UKB,autoimmune,Multiple Sclerosis
+G6_GUILBAR,Guillain-Barre syndrome,G61,UKB,autoimmune,Guillain-Barre syndrome
+G6_MYASTHENIA,Myasthenia gravis,G70,UKB,autoimmune,Myasthenia gravis
+H8_LABYRINTHITIS,Other diseases of inner ear,H83,UKB,autoimmune,Other diseases of inner ear
+I9_RHEUFEV,Rheumatic fever / rheumatic heart diseases,"I00,I01,I02,I05,I06,I07,I08,I09",UKB,autoimmune,Rheumatic fever / rheumatic heart diseases
+ALLERG_RHINITIS,Allergic rhinitis,J30,UKB,autoimmune,Allergic Rhinitis
+ASTHMA_MODE,Asthma,"J45,J46",UKB,autoimmune,Asthma
+CHRONLARGE,Crohn's disease,K50,UKB,autoimmune,Crohn's disease
+K11_ULCER,Ulcerative colitis,K51,UKB,autoimmune,Ulcerative colitis
+CHIRBIL_PRIM,Primary biliary cholangitis,K74,UKB,autoimmune,Primary Biliary Cholangitis
+AUTOHEP,Autoimmune hepatitis,K75,UKB,autoimmune,Autoimmune Hepatitis
+K11_COELIAC,Celiac disease,K90,UKB,autoimmune,Celiac Disease
+L12_BULLOUS,Bullous disorders,"L10,L11,L12,L13,L14",UKB,autoimmune,Bullous Disorders
+L12_PSORIASIS,Psoriasis,L40,UKB,autoimmune,Psoriasis
+L12_LICHENPLANUS,Lichen planus,L43,UKB,autoimmune,Lichen Planus
+L12_ALOPECAREATA,Alopecia areata,L63,UKB,autoimmune,Alopecia Areata
+L12_VITILIGO,Vitiligo,L80,UKB,autoimmune,Vitiligo
+M13_RHEUMA,Rheumatoid arthritis,"M05,M06",UKB,autoimmune,Rheumatoid Arthritis
+PSOR_ENTE_ARTHR,Psoriatic and enteropathic arthropathies,M07,UKB,autoimmune,Psoriatic and Enteropathic Arthropathies
+M13_NECROVASC,Necrotizing vasculopathies,M31,UKB,autoimmune,Necrotizing Vasculopathies
+M13_SJOGREN,Other systemic involvement of connective tissue (Sicca syndrome and Polymyalgia rheumatica),M35,UKB,autoimmune,Sicca Syndrome and Polymyalgia Rheumatica
+M13_ANKYLOSPON_ICD10,Ankylosing spondylitis,M45,UKB,autoimmune,Ankylosing Spondylitis
+M13_MYOSITIS,Myositis,M60,UKB,autoimmune,Myositis
+M13_RHEUMATISM,"Rheumatism, unspecified",M79,UKB,autoimmune,"Rheumatism, unspecified"
+M13_SLE,Systemic Lupus erythematosus,M32,UKB,autoimmune,Systemic Lupus Erythematosus
+JUVEN_ARTHR,Juvenile Arthritis,"M08,M09",UKB,autoimmune,Juvenile Arthritis
+AB1_ANOGENITAL_HERPES_SIMPLEX,Anogenital herpesviral [herpes simplex] infection,A60,FinnGen,virus,Anogenital herpesviral [herpes simplex] infection
+AB1_BACT_BIR_OTHER_INF_AGENTS,"Bacterial, viral and other infectious agents",B9[5-7],FinnGen,virus,"Bacterial, viral and other infectious agents"
+AB1_EBV,Infectious mononucleosis,B27,FinnGen,virus,Infectious mononucleosis
+AB1_HERPES_SIMPLEX,Herpesviral [herpes simplex] infections,B00,FinnGen,virus,Herpesviral [herpes simplex] infections
+AB1_OTHER_VIRAL,Other viral diseases,B25-B34,FinnGen,virus,Other viral diseases
+AB1_VARICELLA,Varicella [chickenpox],B01,FinnGen,virus,Varicella [chickenpox]
+AB1_VIRAL_CNS,Viral infections of the central nervous system,A80-A89,FinnGen,virus,Viral infections of the central nervous system
+AB1_VIRAL_ENCEPHALITIS_NOS,"Viral encephalitis, not elsewhere classified/unspecified","A85,A86",FinnGen,virus,"Viral encephalitis, not elsewhere classified/unspecified"
+AB1_VIRAL_HEMOR_FEVER_NOS,"Viral haemorrhagic fevers, not elsewhere classified/unspecified",A98-A99,FinnGen,virus,"Viral haemorrhagic fevers, not elsewhere classified/unspecified"
+AB1_VIRAL_HEPATITIS,Viral hepatitis,B15-B19,FinnGen,virus,Viral hepatitis
+AB1_VIRAL_INOTHER,Viral agents as the cause of diseases classified to other chapters,B97,FinnGen,virus,Viral agents as the cause of diseases classified to other chapters
+AB1_VIRAL_MENINGITIS,Viral meningitis,A87,FinnGen,virus,Viral meningitis
+AB1_VIRAL_NOS,"Other viral diseases, not elsewhere classified","B33,B34",FinnGen,virus,"Other viral diseases, not elsewhere classified"
+AB1_VIRAL_OTHER_INTEST_INFECTIONS,Viral and other specified intestinal infections,A08,FinnGen,virus,Viral and other specified intestinal infections
+AB1_VIRAL_SKIN_MUCOUS_MEMBRANE,Viral infections characterized by skin and mucous membrane lesions,B00-B09,FinnGen,virus,Viral infections characterized by skin and mucous membrane lesions
+AB1_VIRAL_WARTS,Viral warts,B07,FinnGen,virus,Viral warts
+AB1_ZOSTER,Zoster [herpes zoster],B02,FinnGen,virus,Zoster [herpes zoster]
+E4_THYROIDITSUBAC,Subacute thyroiditis,E06.1,FinnGen,virus,Subacute thyroiditis
+G6_BELLPA,Bell's palsy,G51.0,FinnGen,virus,Bell's palsy
+G6_ENCEPHOTH,Other encephalitis,"G04.1,G04.8,G04.9,G05*",FinnGen,virus,Other encephalitis
+G6_MENINGBACT,Bacterial meningitis,G0[0-1],FinnGen,virus,Bacterial meningitis
+G6_MENINGOTH,Other meningitis,"G02*,G03",FinnGen,virus,Other meningitis
+H7_HERPESKERATITIS,Herpesviral keratitis and keratoconjunctivitis,"H19.1*,H19.1*B00.5",FinnGen,virus,Herpesviral keratitis and keratoconjunctivitis
+I9_MYOCARD,Myocarditis,"I40,I41*",FinnGen,virus,Myocarditis
+INFLUENZA,All influenza (not pneumonia),"J10,J11",FinnGen,virus,All influenza (Not pneumonia)
+J10_COLD,Acute nasopharyngitis(common cold),J00,FinnGen,virus,Acute nasopharyngitis(common cold)
+J10_INFLUENZA,All influenza,"J09,J10,J11",FinnGen,virus,All influenza
+J10_INFLUPNEU,Influenza and pneumonia,J09-J18,FinnGen,virus,Influenza and pneumonia
+J10_VIRALPNEUMO,Viral pneumonia,"J12,J171,J100,J110,B012,B068,B250",FinnGen,virus,Viral pneumonia
+K11_CHRONHEP,"Chronic hepatitis, not elsewhere classified",K73,FinnGen,virus,"Chronic hepatitis, not elsewhere classified"
+L12_ERYTHEMAMULTIF,Erythema multiforme,L51,FinnGen,virus,Erythema multiforme
+MENINGITIS,Meningitis,"G0[0-1],G02*,G03,A87.0,B00.3,B01.0,B02.1,B05.1,B06.0,B26.1,B27.9",FinnGen,virus,Meningitis
+G6_MENINGVIR,Viral meningitis,"G02.0*,G02.0*A87.0,G02.0*A87.1,G02.0*B00.3,G02.0*B01.0,G02.0*B02.1,G02.0*B05.1,G02.0*B06.0,G02.0*B26.1,G02.0*B27.9",FinnGen,virus,Viral meningitis
+D3_OTHERAPLASTICANAEMIA,Aplastic anemia,D61,FinnGen,autoimmune,Aplastic anemia
+D3_ITP,Idiopathic thrombocytopenic purpura,D69.3,FinnGen,autoimmune,Idiopathic thrombocytopenic purpura
+D3_SARCOIDOSIS,Sarcoidosis,D86,FinnGen,autoimmune,Sarcoidosis
+E4_GRAVES_STRICT,Graves' disease / Autoimmune thyroiditis,"E05.0,E05.9,E05.9+G73.0,E05.9+G73.5,E05.9+H06.2,E05.9+I43.8,E05.9+M14.5",FinnGen,autoimmune,Graves' disease / Autoimmune thyroiditis
+E4_DM1,Diabetes mellitus (Type I),E10,FinnGen,autoimmune,Diabetes mellitus (Type I)
+G6_MS,Multiple sclerosis,G35,FinnGen,autoimmune,Multiple sclerosis
+G6_GUILBAR,Guillain-Barre syndrome,G61.0,FinnGen,autoimmune,Guillain-Barre syndrome
+G6_MYASTHENIA,Myasthenia gravis,G70.0#,FinnGen,autoimmune,Myasthenia gravis
+H8_LABYRINTHITIS,Autoimmune Inner Ear Disease,H83.0,FinnGen,autoimmune,Autoimmune Inner Ear Disease
+I9_RHEUFEV,Rheumatic fever / rheumatic heart diseases,"I01,I02.0,I00,I00+J17.8,I00+L54.0,I02.9,I05,I06,I07,I08,I09",FinnGen,autoimmune,Rheumatic fever / rheumatic heart diseases
+ALLERG_RHINITIS,Allergic rhinitis,"J30.10,J30.19,J30.2,J30.3,J30.4",FinnGen,autoimmune,Allergic rhinitis
+ASTHMA_MODE,Asthma,"J45,J46",FinnGen,autoimmune,Asthma
+CHRONLARGE,Crohn's disease,K50,FinnGen,autoimmune,Crohn's disease
+K11_ULCER,Ulcerative colitis,K51,FinnGen,autoimmune,Ulcerative colitis
+CHIRBIL_PRIM,Primary biliary cholangitis,K74.3,FinnGen,autoimmune,Primary biliary cholangitis
+K11_OTHINFLIV,Autoimmune hepatitis,K75,FinnGen,autoimmune,Autoimmune hepatitis
+K11_COELIAC,Celiac disease,K90.0,FinnGen,autoimmune,Celiac disease
+L12_BULLOUS,Bullous disorders,"L10,L11,L12,L13,L14",FinnGen,autoimmune,Bullous disorders
+L12_PSORIASIS,Psoriasis,L40,FinnGen,autoimmune,Psoriasis
+L12_LICHENPLANUS,Lichen planus,L43,FinnGen,autoimmune,Lichen planus
+L12_ALOPECAREATA,Alopecia areata,L63,FinnGen,autoimmune,Alopecia areata
+L12_VITILIGO,Vitiligo,L80,FinnGen,autoimmune,Vitiligo
+M13_RHEUMA,Rheumatoid arthritis,"M05,M06",FinnGen,autoimmune,Rheumatoid arthritis
+PSOR_ARTHR_OTH,Psoriatic and enteropathic arthropathies,"M07.3*, M07.3*L40.5",FinnGen,autoimmune,Psoriatic and enteropathic arthropathies
+M13_NECROVASC,Necrotizing vasculopathies,M31,FinnGen,autoimmune,Necrotizing vasculopathies
+M13_POLYMYALGIA,Polymyalgia rheumatica,M35.3,FinnGen,autoimmune,Polymyalgia rheumatica
+M13_SJOGREN,Sicca syndrome,M35.0,FinnGen,autoimmune,Sicca syndrome
+M13_ANKYLOSPON_ICD10,Ankylosing spondylitis,M45,FinnGen,autoimmune,Ankylosing spondylitis
+M13_MYOSITIS,Myositis,M60,FinnGen,autoimmune,Myositis
+M13_RHEUMATISM,"Rheumatism, unspecified",M79.0,FinnGen,autoimmune,"Rheumatism, unspecified"
+M13_SLE,Systemic Lupus erythematosus,M32,FinnGen,autoimmune,Systemic Lupus erythematosus
+JUVEN_ARTHR,Juvenile Arthritis,"M08,M09",FinnGen,autoimmune,Juvenile Arthritis
